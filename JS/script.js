@@ -24,7 +24,7 @@ window.addEventListener("scroll", function () {
 });
 
 var typed = new Typed(".auto-type", {
-  strings: ["Larry Danials", "Developer", "Designer"],
+  strings: ["Larry Daniels", "Developer", "Designer"],
   typeSpeed: 50,
   backSpeed: 50,
   loop: true,
